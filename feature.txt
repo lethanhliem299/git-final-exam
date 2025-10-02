@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống nhắc nhở học tập.
+1. Gửi thông báo nhắc học mỗi ngày.
+2. Cho phép người dùng đặt lịch học tùy chỉnh.
+3. Hỗ trợ hiển thị tiến độ học tập.
+4. Tích hợp với ứng dụng di động để đồng bộ.
+5. Lưu trữ dữ liệu học tập trên GitHub.
