@@ -1,0 +1,7 @@
+Xin chào, tôi là Lê Thanh Liêm.
+Tôi sinh sống tại Việt Nam.
+Hiện tại tôi đang là sinh viên.
+Tôi quan tâm đến lĩnh vực công nghệ thông tin.
+Tôi mong muốn nâng cao kỹ năng lập trình.
+- Sở thích: Đọc sách, Lập trình, Chơi thể thao.
+- Kỹ năng: Git, Python, SQL.
