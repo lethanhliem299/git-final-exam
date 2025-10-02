@@ -1,4 +1,4 @@
-Xin chào, tôi là Lê Thanh Liêm
+Hello, this is Lê Thanh Liêm
 Tôi sinh sống tại Việt Nam.
 Hiện tại tôi đang là sinh viên.
 Tôi quan tâm đến lĩnh vực công nghệ thông tin.
