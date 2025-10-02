@@ -1,0 +1,5 @@
+- Ngày 1: Ôn tập Git cơ bản.
+- Ngày 2: Thực hành commit và push.
+- Ngày 3: Làm quen với branch.
+- Ngày 4: Thực hành merge.
+- Ngày 5: Quản lý xung đột.
