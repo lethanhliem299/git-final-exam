@@ -1,5 +1,3 @@
 - Git giúp quản lý phiên bản
 - Git hỗ trợ teamwork
 - Git kết nối GitHub
-- Học Git cần thực hành nhiều
-- Git có nhiều lệnh quan trọng
