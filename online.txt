@@ -1,0 +1,2 @@
+Dòng 4: File được cập nhật tại local.
+Dòng 5: Hoàn thành bài Git.
